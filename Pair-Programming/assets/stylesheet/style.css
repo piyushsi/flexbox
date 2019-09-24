@@ -51,6 +51,7 @@ table {
 .wrapper {
 	max-width: 1600px;
 	margin: 0px auto;
+  padding: 0px 5%;
 }
 header {
   background-color: #6F4179;
@@ -224,10 +225,10 @@ width: 40%;
   margin:10px;
   font-size: 18px;
  }
- footer {
+ footer p{
   display: flex;
   justify-content: center;
-  padding:50px;
+  padding:50px 0px;
   color: grey;
   font-size: 20px;
  }
