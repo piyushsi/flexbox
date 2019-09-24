@@ -54,7 +54,7 @@ table {
   padding: 0px 5%;
 }
 header {
-  background-color: #6F4179;
+  background-image: linear-gradient(to right, #534C77 , #774079);
 }
   .container1 {
     display: flex;
